@@ -1,0 +1,4 @@
+dim I as Integer
+I = 10
+Print ("hello world")
+
