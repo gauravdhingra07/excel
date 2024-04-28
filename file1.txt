@@ -5,3 +5,5 @@ Making commit 2 changes in progress, post this statement
 Making commit 3 changes at 12:45, post this statement
 Making commit 4 changes at 12:47, post this statement
 
+1042HRS - Switching to new branch Dev1
+1043HRS - print ("text entered in Dev1 branch")
