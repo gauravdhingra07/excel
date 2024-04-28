@@ -7,3 +7,7 @@ Making commit 4 changes at 12:47, post this statement
 
 1042HRS - Switching to new branch Dev1
 1043HRS - print ("text entered in Dev1 branch")
+
+1053HRS - switching to new branch Dev2
+1054HRS - Print ("text is entered in Dev2 branch")
+
